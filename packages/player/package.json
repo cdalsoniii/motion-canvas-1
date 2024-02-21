@@ -13,10 +13,7 @@
     "dev": "vite",
     "build": "tsc && vite build"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/motion-canvas/motion-canvas.git"
-  },
+
   "files": [
     "dist",
     "types"

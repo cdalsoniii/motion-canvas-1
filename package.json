@@ -53,5 +53,8 @@
   "lint-staged": {
     "*.{ts,tsx}": "eslint --fix",
     "*.{js,jsx,ts,tsx,md,scss}": "prettier --write"
+  },
+  "dependencies": {
+    "@motion-canvas/core": "^3.14.1"
   }
 }
